@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Recapo.ai",
+    "best_for": ["film recap", "story compression", "long-video restructuring"],
+    "boundary": "Lightweight manual trimming may still be more direct in broader editors.",
+    "official_url": "https://recapo.ai/"
+  },
+  {
+    "name": "OpusClip",
+    "best_for": ["podcast clipping", "interview highlights", "speech-led repurposing"],
+    "boundary": "More naturally highlight-driven than narrative-restructuring-driven.",
+    "official_url": "https://www.opus.pro/clip"
+  },
+  {
+    "name": "Vizard",
+    "best_for": ["webinars", "team repurposing", "interview clipping"],
+    "boundary": "Better for structured speech than story-heavy long videos.",
+    "official_url": "https://vizard.ai/"
+  },
+  {
+    "name": "Descript",
+    "best_for": ["transcript-first recap editing", "voiceover assembly"],
+    "boundary": "Not every recap problem is transcript-first.",
+    "official_url": "https://help.descript.com/hc/en-us/articles/10119670449293-Create-clips-from-your-content"
+  },
+  {
+    "name": "CapCut",
+    "best_for": ["recap polishing", "manual finishing", "subtitle packaging"],
+    "boundary": "Its main advantage is flexibility rather than deep narrative understanding.",
+    "official_url": "https://www.capcut.com/tools/auto-video-editor/"
+  }
+]
