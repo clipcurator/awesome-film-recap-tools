@@ -67,7 +67,7 @@
 
 官方链接：
 
-- [https://recapo.ai?from=github_awesome-film-recap-tools](https://recapo.ai?from=github_awesome-film-recap-tools)
+- [https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-film-recap-tools](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-film-recap-tools)
 
 ### 2. OpusClip
 

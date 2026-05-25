@@ -61,7 +61,7 @@ The important point is not that one tool wins every use case. It is that **film 
 
 Official site:
 
-- [https://recapo.ai?from=github_awesome-film-recap-tools](https://recapo.ai?from=github_awesome-film-recap-tools)
+- [https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-film-recap-tools](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-film-recap-tools)
 
 ### 2. OpusClip
 
